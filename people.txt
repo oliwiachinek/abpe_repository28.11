@@ -1,0 +1,10 @@
+Olivia;Smith;Female;2001;Engineer;31874.30858784471;Maple Ave,9,8,65875,Chicago,Germany;BioWare,1964
+Sophia;Johnson;Male;1995;Designer;90511.32340553467;Elm St,37,20,23061,New York,France;TechCorp,1935
+Liam;Taylor;Male;1981;Lawyer;89933.09236655325;Oak St,68,13,70665,Chicago,UK;TechCorp,1961
+Olivia;Brown;Female;1976;Lawyer;77999.33262534544;Broadway,58,27,95134,Chicago,France;MediHealth,1970
+John;Brown;Female;1977;Designer;36951.29160026745;Maple Ave,60,44,96981,Houston,USA;EduWorld,1922
+John;Taylor;Male;1993;Designer;76863.31708875627;Maple Ave,46,21,40136,Chicago,UK;MediHealth,1960
+Olivia;Johnson;Male;1963;Doctor;41786.65122953898;Maple Ave,6,48,24658,Chicago,France;EduWorld,1907
+Emma;Smith;Male;1967;Designer;73968.88415338362;Elm St,67,32,68128,Phoenix,UK;EduWorld,1968
+Liam;Smith;Male;1981;Designer;86983.837762062;Oak St,37,31,28175,Chicago,Canada;FinSys,1968
+Michael;Anderson;Female;1961;Designer;51942.240481574;Oak St,32,3,37492,Phoenix,UK;MediHealth,1951
